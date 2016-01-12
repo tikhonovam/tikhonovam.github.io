@@ -1,0 +1,67 @@
+/*h1{
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+}*/
+.homework h1{
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	color: #45413e;
+	text-align: center;
+	margin-left: 0;
+}
+.task{
+	width: 370px;	
+	display: block;
+	float: left;
+	height: 100px;
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-right: 20px;
+}
+.task a{
+	background-color:#816fca;
+	border-radius: 5px;
+	display: block;
+	padding-top: 40px;
+	text-align: center;
+	height: 60px;
+	color: #fff;	
+	text-decoration: none;
+}
+.back{
+	width: 220px;
+	height: 30px;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-left: 475px;
+	padding-top: 15px;
+	background-color: #816fca;	
+	border-radius: 5px;
+	display: block;		
+}
+.back a{	
+	display: block;
+	text-align: center;
+	color:#fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.social.prod{
+	margin-top: 30px;
+}
+.social.prod span{
+	display: block;
+	float: left;
+	font-family: 'quicksandbold', Arial, sans-serif;
+	font-size: 14px;
+	color: #45413e;
+	margin-right: 16px;
+	opacity: 0.3;
+}
+	
+	
+	
+	

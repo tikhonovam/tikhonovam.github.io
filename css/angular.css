@@ -1,0 +1,17 @@
+﻿.main_col_back{
+	z-index: 2;
+}
+
+.main_col_active{
+	display: block;
+	z-index: 1;
+}
+.main_col:hover .main_col_active{
+	z-index: 3;
+}
+.wish_count{
+	opacity: 1;
+}
+.cart_count{
+opacity: 1;
+}

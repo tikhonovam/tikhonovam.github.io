@@ -1,0 +1,188 @@
+﻿@media only screen and (max-width: 1280px){
+	.wrapper {
+	min-width: 100%;
+	}
+	.content {
+	min-width: 100%;
+	}
+	.center{
+	width: 870px;
+	}
+	.service{
+	min-width: 70%;
+	height: auto;
+	}
+	.mainmenu{
+	display: none;	
+	}
+	.newmenu{
+	display: block;
+	}
+	.header-right{
+	float: right;
+	}
+	
+	.bottom-content{
+	margin-left: 0px;
+	}
+	.sidebar{
+	display: none;
+	}
+	.slider{
+	width: 870px;
+	float: none;
+	}
+	
+	.main_row{
+	width: 900px;
+	}
+	.service{
+	min-width: 70%;
+	height: auto;
+	}
+	.service_bl div{
+	margin-bottom: 40px;
+	}	
+	.footer {
+	min-width: 100%;
+	}
+	.copyright{
+	display: none;
+	}
+	.copyright2{
+	display: block;
+	}
+	.social{
+	display: none;
+	}
+	.social2{
+	display: block;
+	}
+	.foot_bottom{
+	margin-top: 40px;
+	padding-bottom: 40px;
+	}
+	.viewmore{
+	width: 270px;
+	margin-left: 34.333%;
+	}
+	.button_icon{
+	padding-left: 60px;
+	}
+}
+
+@media only screen and (max-width: 960px){
+	.center{
+	width: 90%;
+
+	}
+	.header-center{
+	display: none;
+	}
+	.slider{
+	width: 100%;
+	}
+	.slider_num{
+		left: 50%;
+	}
+	.main_row{
+	width: 105%;
+	overflow: hidden;
+	margin-left: -5%;
+	}
+	.main_row .main_col{
+	width: 45%;
+	}	
+	.service_bl{
+	padding-top: 20px;
+	padding-bottom: 40px;
+	}
+	.service_bl div{
+	width: 80%;
+	height: auto;
+	float: none;
+	margin-top: 30px;
+	}
+	.main_col{
+	margin-left: 5%;
+	margin-bottom: 30px;
+	margin-right: 0;
+	}
+	
+	.main_col_back{
+	width: 100%;
+	margin-right:0;	
+	}
+	.main_col_back img{
+	height: 410px;	
+	}
+	.main_col_active{
+	width: 100%;	
+	}
+	.addlayer{
+	width: 100%;	
+	}
+	
+}
+
+@media only screen and (max-width: 800px){
+	.bottom-about{
+	margin-top: 40px;
+	}
+	.header-right{
+	display: none;
+	}
+	.viewmore{
+	margin-left: 30.333%;
+	}
+	.newmenu{
+	float: right;
+	padding-right: 0;
+	}
+}
+
+@media only screen and (max-width: 630px){
+	
+	.slider{
+	display: none;
+	}
+	.main_row .main_col{
+	width: 100%;
+	}
+	.main_col_back img{
+	height: 535px;	
+	}
+	
+	.service_bl div{
+	width: 50%;
+	}
+	.main_row{
+	width: 100%;
+	margin-left: 0;
+	}
+	.main_col{
+	margin-left: 0;
+	}
+	.footer {
+	min-width: 100%;
+	}
+	.social2{
+	float: left;
+	margin-top: 30px;
+	}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+	.main_col_back img{
+	height: 415px;	
+	}
+	.logo img{
+		height: 15px;
+	}
+	.newmenu{
+	padding-right: 0px;
+	}
+	.viewmore{
+	width: 100%;
+	margin-left: 0px;
+	}
+}
